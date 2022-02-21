@@ -1,0 +1,13 @@
+name: pdf-search
+title: pdf-search
+username:
+account: causalmap
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5700483
+bundleId: 5602133
+url: https://causalmap.shinyapps.io/pdf-search/
+when: 1645453539.58377
+lastSyncTime: 1645453539.58377
+asMultiple: FALSE
+asStatic: FALSE

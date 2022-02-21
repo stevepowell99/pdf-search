@@ -1,0 +1,13 @@
+name: pdf2excel
+title: pdf2excel
+username:
+account: causalmap
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4788787
+bundleId: 5447552
+url: https://causalmap.shinyapps.io/pdf2excel/
+when: 1641656518.66657
+lastSyncTime: 1641656518.66657
+asMultiple: FALSE
+asStatic: FALSE
